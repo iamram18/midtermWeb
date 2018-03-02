@@ -1,0 +1,16 @@
+.product {
+  width: 300px;
+  border: 1px solid;
+  margin: 20px;
+  background-color: #ece;
+  cursor: pointer;
+}
+
+.product-active {
+  width: 300px;
+  border: 1px solid;
+  color: white;
+  margin: 20px;
+  background-color: blue;
+  cursor: pointer;
+}
